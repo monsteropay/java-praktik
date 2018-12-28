@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Axce29
+ * @author budis
  */
 public class Mahasiswa extends javax.swing.JFrame {
 
